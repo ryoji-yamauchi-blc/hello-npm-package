@@ -2,7 +2,7 @@
   "name": "@ryoji-yamauchi-blc/hello-npm-package",
   "version": "1.0.0",
   "description": "first npm package",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:ryoji-yamauchi-blc/hello-npm-package.git"
